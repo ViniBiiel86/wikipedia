@@ -1,0 +1,252 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(63, 23, 241);
+}
+
+img {
+    width: 30px;
+}
+
+.container_header {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    margin-left: 20px;
+}
+
+.logo {
+    width: 200px;
+
+}
+
+.instagram {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.facebook {
+    margin-left: 10px;
+}
+
+.linkedin {
+    margin-left: 10px;
+}
+
+
+
+.historia_do_console {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.historia_do_console h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia {
+    padding-top: 52px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-top: 1px rgb(143, 143, 204) solid;
+
+}
+
+.texto_historia {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.historia img {
+    width: 20%;
+}
+
+.ps1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ps1 h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia_do_ps1 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.resumo_ps1 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ps2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ps2 h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia_do_ps2 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.resumo_ps2 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ps3 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ps3 h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia_do_ps3 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.resumo_ps3 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ps4 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ps4 h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia_do_ps4 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.resumo_ps4 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ps5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.ps5 h2 {
+    margin-top: 50px;
+    margin-right: 100px;
+}
+
+.historia_do_ps5 {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+
+}
+
+.resumo_ps5 {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.galeria {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+    align-items: center;
+    
+    width: 100%;
+    
+}
+
+
+
+.galeria img {
+
+    width: 200px;
+    margin-right: 40px;
+    padding: 10px;
+    margin-bottom: 50px;
+
+}
+
+.galeria img:hover {
+    border: 1px solid black ;
+    cursor: pointer;
+    background-color: rgb(196, 196, 218);
+    transform: translate(30px, 20px) scale(1.5);
+    
+}
+
+
+
